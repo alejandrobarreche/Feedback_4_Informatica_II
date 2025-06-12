@@ -1,0 +1,9 @@
+[submodule "front-vite"]
+	path = front-vite
+	url = https://github.com/alejandrobarreche/Feedback_4_Informatica_II_front-vite.git
+[submodule "back"]
+	path = back
+	url = https://github.com/alejandrobarreche/Feedback_4_Informatica_II_back.git
+[submodule "bff"]
+	path = bff
+	url = https://github.com/alejandrobarreche/Feedback_4_Informatica_II_bff.git
